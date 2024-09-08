@@ -1,4 +1,3 @@
-Rupesh Singh's GitHub Profile
 👋 Hello there! I'm @Rupeshsingh4253
 
 ✨ About Me: I'm passionate about Artificial Intelligence and Data Science, diving deep into data to uncover insights and drive innovation.
